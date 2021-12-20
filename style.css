@@ -672,7 +672,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -723,6 +723,7 @@ h1 {
 
 h4 {
     color: #333333!important;
+    line-height: 3rem;
 }
 
 .icons {
